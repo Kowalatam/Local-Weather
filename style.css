@@ -1,6 +1,8 @@
 body {
+	background: url("https://images.unsplash.com/photo-1466446105453-d151af699ac7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80");
 	background-size: cover;
 	background-position: center;
+
 }
 
 html {
@@ -8,25 +10,27 @@ html {
 }
 
 .square {
-	background-color: #b2b5ba;
+	background-color: #BA5624;
 	margin-top: 70px;
-	width: 75%;
+	width: 55%;
   	padding: 20px 0;
 	border-radius: 15%;
 	font-family: 'Lobster', cursive;
   	margin-right: auto; 
  	 margin-left: auto;
+ 	 color: #fff;
 }
 
-button {
-	background-color:#6189a8;
+#convert {
+	background-color:#381D2A;
 	border-radius: 15%;
+	margin-left: 15px;
 }
 
 footer {
 	padding: 20px 5px 20px 5px;
-	background-color: #a8a6a8;
+	background-color: #FCDE9C;
 	margin-top: 70px;
 	width: 20%;
-	border-radius: 15%;
+	border-radius: 45%;
 }
